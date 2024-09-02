@@ -3,7 +3,6 @@
 Plugin Name: Premium Addons for Elementor
 Description: Premium Addons for Elementor plugin includes widgets and addons like Blog Post Grid, Megamenu, Post Carousel, Advanced Slider, Modal Popup, Google Maps, SVG Draw, Lottie Animations, Countdown, Testimonials.
 Plugin URI: https://premiumaddons.com
-Requires Plugins: elementor
 Version: 4.10.49
 Elementor tested up to: 3.23.4
 Elementor Pro tested up to: 3.23.3

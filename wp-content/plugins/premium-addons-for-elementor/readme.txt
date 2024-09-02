@@ -1,6 +1,6 @@
 === Premium Addons for Elementor ===
 Contributors: Leap13, Rimoun
-Tags: elementor, elementor addons, widgets, elementor elements, templates
+Tags: elementor, elementor addons, widgets, elementor elements, elementor templates
 Donate Link: https://premiumaddons.com/?utm_source=wp-repo&utm_medium=link&utm_campaign=readme
 Requires at least: 5.0
 Tested Up To: 6.6.1
@@ -9,7 +9,7 @@ Stable Tag: 4.10.49
 License: GPL v3.0
 License URI: https://opensource.org/licenses/GPL-3.0
 
-Premium Addons comes with 90+ Elementor widgets and 550+ templates. It includes elements like Mega Menu, Carousel and Blog, Display Conditions
+90+ Elementor widgets and 580+ templates. It includes elements like Nav Mega Menu, Carousel and Blog, WooCommerce widgets, Display Conditions.
 
 == Description ==
 
